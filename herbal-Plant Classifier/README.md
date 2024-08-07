@@ -1,5 +1,5 @@
 # Herbal-Plant Clasifier
-Identification of Different Medicinal Plants/Raw materials through Image Processing Using Machine Learning Algorithms
+Identification / Classification of Herbal Plants through Image Processing Using Machine Learning Algorithms
 
 ## Collecting Dataset
 Download dataset from Kaggle : https://www.kaggle.com/datasets (Download your desired dataset and upload the dataset file within main project folder)
