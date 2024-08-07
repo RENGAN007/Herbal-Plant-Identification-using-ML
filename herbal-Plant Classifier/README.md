@@ -1,10 +1,12 @@
-# Medi-Plant Clasifier
+# Herbal-Plant Clasifier
 Identification of Different Medicinal Plants/Raw materials through Image Processing Using Machine Learning Algorithms
 
-## Download Dataset
-https://www.kaggle.com/datasets/riteshranjansaroj/segmented-medicinal-leaf-images
+## Collecting Dataset
+Download dataset from Kaggle : https://www.kaggle.com/datasets (Download your desired dataset and upload the dataset file within main project folder)
 
-## Unzip this and use it 
+## How to run the project
+Make sure to install necessary libraries as mentioned in code !
+
 1. Check for flask version else download it with this command
      $ pip install -U Flask.
 2. Check for all the other packages. If any packages are missing using this command
@@ -14,8 +16,5 @@ https://www.kaggle.com/datasets/riteshranjansaroj/segmented-medicinal-leaf-image
 4. Select the file which is to be tested.
 5. The application will display the image predicted with confidence level of the MobileNetV2 model prediction.
 
-## Work to be done.
-1. Develop a database with all the information of the dataset classes.
-2. Upload the database into a REST API.(So far plan for local API).
-3. Fetch the details and display.
+After launching the application ona deployment server , you are ready to GoooOOOO...!!!!
 
